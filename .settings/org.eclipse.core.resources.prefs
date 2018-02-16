@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/exception/ImageSizeException.java=UTF-8
+encoding//src/exception/NoSameSizeException.java=UTF-8
+encoding//src/exception/NoSuchColorException.java=UTF-8
+encoding//src/exception/NoSuchDimensionException.java=UTF-8
+encoding//src/exception/NoSuchOperationException.java=UTF-8
+encoding//src/exception/NoSuchSizeException.java=UTF-8
+encoding//src/exception/NotTheRightImageException.java=UTF-8
+encoding//src/exception/PixelColorException.java=UTF-8
+encoding//src/exception/ShiftValueSizeException.java=UTF-8
