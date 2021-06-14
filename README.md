@@ -1,5 +1,5 @@
 # Binary Operations Between Images
-The aplication takes tow bmp files and generate in a new directory all bmp files created using binary pixel interactions between them.  
+The aplication takes two bmp files and generates in a new directory using binary pixel interactions between those two files, all the supported results.  
 
 
 Input Files:
